@@ -1,6 +1,5 @@
-# ManthanRPatel
-Cypress Examples
+# Cypress Examples
 
-with including fixtures , commands , history and all,,,
+End to End Testing with including fixtures, commands , history and file upload, page object the functionality.
 
-name wise examples
+The file have the name as per its functionalities.
